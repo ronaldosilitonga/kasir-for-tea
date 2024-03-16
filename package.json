@@ -10,9 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/ronaldosilitonga/kasir-for-tea.git"
   },
-  "author": "ronaldosilitonga",
+  "author": "novaliere",
   "dependencies": {
-    "@novaliere/kasir": "1.1.4"
+    "kasir": "1.1.4"
   },
   "license": "ISC",
   "bugs": {
